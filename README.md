@@ -1,1 +1,3 @@
 # BioStructVis
+
+pip install matplotlib
