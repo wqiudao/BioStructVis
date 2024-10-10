@@ -1,6 +1,7 @@
 # BioStructVis
 
 conda install anaconda::python  -y
+
 pip install matplotlib
 
 
