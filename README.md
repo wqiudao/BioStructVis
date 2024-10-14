@@ -12,6 +12,9 @@ pip install matplotlib
 
 ## install
 conda create --name biostructvis  -y
+
 conda activate biostructvis
+
 conda install anaconda::pyqt  -y
+
 pip install matplotlib
