@@ -11,7 +11,7 @@ pip install matplotlib
 
 
 ## install
-conda create --name biostructvis python=3.13 -y
+conda create --name biostructvis -y
 
 conda activate biostructvis
 
